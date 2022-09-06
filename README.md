@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrady02
+- 👋 Hi, I’m Mohamed Rady
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning mvc
 - 💞️ I’m looking to collaborate on ...
